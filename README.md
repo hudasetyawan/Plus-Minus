@@ -6,7 +6,7 @@ Nama : M Huda Noor Setyawan
 Nim : 23422035
 Kelas : TIF 22A
 
-#Kasus 0
+# Kasus 0
 phyton 3
 
 import math
@@ -38,12 +38,12 @@ def plusMinus(arr):
     plusMinus(arr)
 
 
-#Keluaran saya
+# Keluaran saya
 0,500000
 0,333333
 0,166667
 
-#Kasus 1
+# kasus 1
 
 import math
 import os
@@ -73,7 +73,7 @@ def plusMinus(arr):
     # Function call
     plusMinus(arr)
 
-#Keluaran saya
+# Keluaran saya
 0,37500000
 0,37500000
 0,25000000
